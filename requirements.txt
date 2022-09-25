@@ -1,0 +1,12 @@
+streamlit==1.13.0
+pandas==1.4.3
+plotly==5.10.0
+cufflinks==0.17.3
+numpy==1.21.5
+
+
+
+
+
+
+
